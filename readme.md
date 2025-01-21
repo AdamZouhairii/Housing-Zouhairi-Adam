@@ -23,7 +23,7 @@ cd Housing-API-Cloud-main
 ---
 
 ### 2. Configurez les variables d'environnement
-Créez un fichier `.env` dans le dossier `housing-api/` ou modifiez celui existant :
+Créez un fichier `.env` dans le dossier `housing-api/` ou modifiez celui existant en ajoutant le lien de votre database :
 ```dotenv
 DATABASE_URL=postgresql://postgres:bSeEHAPtQHrzhmLjTPppeagYaLkDwasS@postgres.railway.internal:5432/railway
 ```
